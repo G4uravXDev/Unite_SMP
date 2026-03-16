@@ -35,7 +35,7 @@ export default function PrivacyModal({ open, onClose }) {
                             </li>
                             <li className="rules-modal__item">
                                 <span className="rules-modal__number">3</span>
-                                <span>Purchase and transaction records when you buy from the Uite Store.</span>
+                                <span>Purchase and transaction records when you buy from the Unite Store.</span>
                             </li>
                             <li className="rules-modal__item">
                                 <span className="rules-modal__number">4</span>

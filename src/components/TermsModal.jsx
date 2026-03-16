@@ -14,7 +14,7 @@ export default function TermsModal({ open, onClose }) {
                     <div className="rules-modal__icon">📄</div>
                     <h2 className="rules-modal__title">Terms of Service</h2>
                     <p className="rules-modal__subtitle">
-                        Last updated: February 2026. By using Uite SMP or the Uite Store, you agree to the following terms.
+                        Last updated: February 2026. By using Unite SMP or the Unite Store, you agree to the following terms.
                     </p>
                 </div>
 

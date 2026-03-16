@@ -219,7 +219,7 @@ export default function HomePage({ onSelectCategory, onToast }) {
                 <section className="home__section">
                     <h2 className="home__section-title">Welcome</h2>
                     <p className="home__section-text">
-                        Welcome to the official Uite Store! This is the place for you to enhance your
+                        Welcome to the official Unite Store! This is the place for you to enhance your
                         server experience. We offer ranks, kits, crates, coins, and more. You can choose
                         the product category in the navigation at the top or by clicking on the category
                         cards above.
@@ -231,9 +231,9 @@ export default function HomePage({ onSelectCategory, onToast }) {
                 </section>
 
                 <section className="home__section">
-                    <h2 className="home__section-title">About Uite SMP</h2>
+                    <h2 className="home__section-title">About Unite SMP</h2>
                     <p className="home__section-text">
-                        Uite SMP is a premium Minecraft Lifesteal server featuring custom enchants,
+                        Unite SMP is a premium Minecraft Lifesteal server featuring custom enchants,
                         competitive PvP, and a thriving community. Join thousands of players and dominate
                         the server with exclusive gear and ranks.
                     </p>

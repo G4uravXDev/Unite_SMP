@@ -14,7 +14,7 @@ export default function ForumsModal({ open, onClose }) {
                     <div className="rules-modal__icon">💬</div>
                     <h2 className="rules-modal__title">Community Forums</h2>
                     <p className="rules-modal__subtitle">
-                        Connect with the Uite SMP community! Here's where you can find us and get involved.
+                        Connect with the Unite SMP community! Here's where you can find us and get involved.
                     </p>
                 </div>
 

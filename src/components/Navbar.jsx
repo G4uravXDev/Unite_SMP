@@ -27,8 +27,8 @@ export default function Navbar({ currentPage, onNavigateHome, onNavigateCategory
     return (
         <nav className="navbar" id="navbar">
             <a href="#" className="navbar__logo" onClick={(e) => { e.preventDefault(); onNavigateHome?.(); }}>
-                <img src={serverIcon} alt="Uite SMP" className="navbar__logo-icon-img" />
-                <span className="navbar__logo-text"><span className="navbar__logo-uite">UNITE</span> STORE</span>
+                <img src={serverIcon} alt="Unite SMP" className="navbar__logo-icon-img" />
+                <span className="navbar__logo-text"><span className="navbar__logo-unite">UNITE</span> STORE</span>
             </a>
 
             <button

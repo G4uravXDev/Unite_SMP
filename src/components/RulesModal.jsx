@@ -14,7 +14,7 @@ export default function RulesModal({ open, onClose }) {
                     <div className="rules-modal__icon">📜</div>
                     <h2 className="rules-modal__title">Server & Store Rules</h2>
                     <p className="rules-modal__subtitle">
-                        By playing on Uite SMP or purchasing from the store, you agree to follow these rules.
+                        By playing on Unite SMP or purchasing from the store, you agree to follow these rules.
                     </p>
                 </div>
 
