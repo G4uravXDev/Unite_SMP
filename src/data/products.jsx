@@ -8,12 +8,11 @@ import immortalKitImg from '../assets/Kits/immortal_kit.png';
 import bossKitImg from '../assets/Kits/boss_kit.png';
 
 // Rank images from assets
-import vipRankImg from '../assets/Ranks/vip.png';
-import mvpRankImg from '../assets/Ranks/mvp.png';
 import eliteRankImg from '../assets/Ranks/elite.png';
-import immortalRankImg from '../assets/Ranks/immortal.png';
-import deadliestRankImg from '../assets/Ranks/deadliest.png';
-import customRankImg from '../assets/Ranks/custom.png';
+import mythicRankImg from '../assets/Ranks/mythic_rank.png';
+import apexRankImg from '../assets/Ranks/apex_rank.png';
+import pikaRankImg from '../assets/Ranks/pika_rank.png';
+import meowwRankImg from '../assets/Ranks/Meoww_rank.png';
 
 import deadliestKitImg from '../assets/Kits/deadliest_kit.png';
 
@@ -38,7 +37,7 @@ export const products = [
         price: 99,
         description: 'The essential starter rank. 2x Lifesteal XP & Basic Commands.',
         category: 'rank',
-        image: vipRankImg,
+        image: eliteRankImg,
     },
     {
         id: 'rank-mvp',
@@ -46,7 +45,7 @@ export const products = [
         price: 199,
         description: 'Step up your game. More homes, more storage, and utility commands.',
         category: 'rank',
-        image: mvpRankImg,
+        image: mythicRankImg,
     },
     {
         id: 'rank-elite',
@@ -54,7 +53,7 @@ export const products = [
         price: 299,
         description: 'Advanced utility with Enderchest and Invsee access.',
         category: 'rank',
-        image: eliteRankImg,
+        image: apexRankImg,
     },
     {
         id: 'rank-immortal',
@@ -62,7 +61,7 @@ export const products = [
         price: 499,
         description: 'Control your environment with PTime and PWeather.',
         category: 'rank',
-        image: immortalRankImg,
+        image: pikaRankImg,
     },
     {
         id: 'rank-deadliest',
@@ -70,7 +69,7 @@ export const products = [
         price: 599,
         description: 'The ultimate rank. 3x XP, /heal, and maximum limits.',
         category: 'rank',
-        image: deadliestRankImg,
+        image: meowwRankImg,
     },
     // ===== CRATES =====
     {
