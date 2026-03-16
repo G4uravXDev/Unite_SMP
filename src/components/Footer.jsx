@@ -16,7 +16,7 @@ export default function Footer({ onNavigateTicket }) {
             <footer className="footer" id="footer">
                 <div className="footer__grid">
                     <div className="footer__brand">
-                        <div className="footer__brand-name">NIGHT STORE</div>
+                        <div className="footer__brand-name">UNITE STORE</div>
                         <p className="footer__brand-desc">
                             The ultimate Minecraft experience. Join a community of thousands
                             and dominate the server.
@@ -77,7 +77,7 @@ export default function Footer({ onNavigateTicket }) {
 
                 <div className="footer__bottom">
                     <p className="footer__copy">
-                        © 2026 NIGHT STORE. Not affiliated with Mojang AB.
+                        © 2026 UITE STORE. Not affiliated with Mojang AB.
                     </p>
                 </div>
             </footer>

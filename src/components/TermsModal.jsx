@@ -14,7 +14,7 @@ export default function TermsModal({ open, onClose }) {
                     <div className="rules-modal__icon">📄</div>
                     <h2 className="rules-modal__title">Terms of Service</h2>
                     <p className="rules-modal__subtitle">
-                        Last updated: February 2026. By using Night SMP or the Night Store, you agree to the following terms.
+                        Last updated: February 2026. By using Uite SMP or the Uite Store, you agree to the following terms.
                     </p>
                 </div>
 
@@ -27,7 +27,7 @@ export default function TermsModal({ open, onClose }) {
                         <ul className="rules-modal__list">
                             <li className="rules-modal__item">
                                 <span className="rules-modal__number">1</span>
-                                <span>Night SMP is a Minecraft server and is not affiliated with or endorsed by Mojang Studios or Microsoft.</span>
+                                <span>Unite SMP is a Minecraft server and is not affiliated with or endorsed by Mojang Studios or Microsoft.</span>
                             </li>
                             <li className="rules-modal__item">
                                 <span className="rules-modal__number">2</span>
@@ -77,7 +77,7 @@ export default function TermsModal({ open, onClose }) {
                         <ul className="rules-modal__list">
                             <li className="rules-modal__item">
                                 <span className="rules-modal__number">1</span>
-                                <span>Night SMP is provided "as is" without warranty. We do not guarantee uninterrupted or error-free service.</span>
+                                <span>Unite SMP is provided "as is" without warranty. We do not guarantee uninterrupted or error-free service.</span>
                             </li>
                             <li className="rules-modal__item">
                                 <span className="rules-modal__number">2</span>

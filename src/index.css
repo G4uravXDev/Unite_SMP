@@ -134,16 +134,13 @@ img {
   opacity: 0.85;
 }
 
-.navbar__logo-icon {
-  width: 36px;
-  height: 36px;
-  background: rgba(218, 165, 32, 0.12);
-  border: 1px solid rgba(218, 165, 32, 0.2);
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 1.1rem;
+.navbar__logo-icon-img {
+  width: 42px;
+  height: 42px;
+  object-fit: contain;
+  border: none;
+  border-radius: 0;
+  background: none;
 }
 
 .navbar__logo-text {
@@ -154,7 +151,7 @@ img {
   letter-spacing: 1.5px;
 }
 
-.navbar__logo-night {
+.navbar__logo-uite {
   color: var(--accent-gold-bright);
   font-weight: 800;
 }

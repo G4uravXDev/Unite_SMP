@@ -51,7 +51,7 @@ export default function HomePage({ onSelectCategory, onToast }) {
     const heroRef = useRef(null);
 
     const handleCopy = () => {
-        navigator.clipboard.writeText('amd.anuverse.fun:23456');
+        navigator.clipboard.writeText('unitesmp.fun');
         setCopied(true);
         onToast?.('IP Copied Successfully');
         setTimeout(() => setCopied(false), 2000);
@@ -119,7 +119,7 @@ export default function HomePage({ onSelectCategory, onToast }) {
                             <span className="hero-section__title-white">Welcome to</span>
                         </span>
                         <span className="hero-section__title-line">
-                            <span className="hero-section__title-glow">Night SMP</span>
+                            <span className="hero-section__title-glow">Unite SMP</span>
                         </span>
                     </h1>
 
@@ -163,7 +163,7 @@ export default function HomePage({ onSelectCategory, onToast }) {
                         </div>
                         <div className="hero-section__ip-main">
                             <span className="hero-section__ip-label">SERVER IP</span>
-                            <span className="hero-section__ip-address">amd.anuverse.fun</span>
+                            <span className="hero-section__ip-address">unitesmp.fun</span>
                         </div>
                         <div className="hero-section__ip-copy-btn">
                             {copied ? (
@@ -219,7 +219,7 @@ export default function HomePage({ onSelectCategory, onToast }) {
                 <section className="home__section">
                     <h2 className="home__section-title">Welcome</h2>
                     <p className="home__section-text">
-                        Welcome to the official Night Store! This is the place for you to enhance your
+                        Welcome to the official Uite Store! This is the place for you to enhance your
                         server experience. We offer ranks, kits, crates, coins, and more. You can choose
                         the product category in the navigation at the top or by clicking on the category
                         cards above.
@@ -231,9 +231,9 @@ export default function HomePage({ onSelectCategory, onToast }) {
                 </section>
 
                 <section className="home__section">
-                    <h2 className="home__section-title">About Night SMP</h2>
+                    <h2 className="home__section-title">About Uite SMP</h2>
                     <p className="home__section-text">
-                        Night SMP is a premium Minecraft Lifesteal server featuring custom enchants,
+                        Uite SMP is a premium Minecraft Lifesteal server featuring custom enchants,
                         competitive PvP, and a thriving community. Join thousands of players and dominate
                         the server with exclusive gear and ranks.
                     </p>

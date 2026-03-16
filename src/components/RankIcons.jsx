@@ -34,6 +34,6 @@ export function DeadliestIcon() {
     return <img src={deadliestImg} alt="Deadliest Rank" style={rankIconStyle} />;
 }
 
-export function CustomRankIcon() {
-    return <img src={customRankImg} alt="Custom Rank" style={rankIconStyle} />;
-}
+// export function CustomRankIcon() {
+//     return <img src={customRankImg} alt="Custom Rank" style={rankIconStyle} />;
+// }

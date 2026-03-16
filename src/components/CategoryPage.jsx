@@ -5,7 +5,7 @@ const categoryMeta = {
         title: 'Ranks',
         icon: '👑',
         aboutTitle: 'About Ranks',
-        about: 'A Server Rank is a fun way to help support the Night SMP Server! With different perks, commands, and rank colors, the table above is to help you figure out which rank best suits you. If you already have a rank, the value of your current rank is deducted from your future rank upgrades.',
+        about: 'A Server Rank is a fun way to help support the Uite SMP Server! With different perks, commands, and rank colors, the table above is to help you figure out which rank best suits you. If you already have a rank, the value of your current rank is deducted from your future rank upgrades.',
     },
     kit: {
         title: 'Kits',
@@ -23,7 +23,7 @@ const categoryMeta = {
         title: 'Coins',
         icon: '🪙',
         aboutTitle: 'About Coins',
-        about: 'Coins are a currency used to purchase items from the Night SMP In-Game Store. You can find vendors that use Coins in any server lobby. Coins are non-refundable and cannot be earned through any in-game methods.',
+        about: 'Coins are a currency used to purchase items from the Uite SMP In-Game Store. You can find vendors that use Coins in any server lobby. Coins are non-refundable and cannot be earned through any in-game methods.',
     },
 };
 

@@ -5,7 +5,7 @@ export default function Hero({ onToast }) {
     const [copied, setCopied] = useState(false);
 
     const handleCopy = () => {
-        navigator.clipboard.writeText('amd.anuverse.fun:23456');
+        navigator.clipboard.writeText('unitesmp.fun');
         setCopied(true);
         onToast?.('IP Copied to clipboard!');
         setTimeout(() => setCopied(false), 2000);
@@ -28,7 +28,7 @@ export default function Hero({ onToast }) {
             {/* Title */}
             <div className="hero__title-wrap">
                 <h1 className="hero__title">
-                    <span className="hero__title-white">NIGHT</span>
+                    <span className="hero__title-white">UNITE</span>
                     <span className="hero__title-gradient">STORE</span>
                 </h1>
                 <div className="hero__title-glow" />
@@ -46,7 +46,7 @@ export default function Hero({ onToast }) {
                     <div className="hero__server-dot" />
                     <div className="hero__server-text">
                         <span className="hero__server-label">Server IP</span>
-                        <span className="hero__server-address">amd.anuverse.fun</span>
+                        <span className="hero__server-address">unitesmp.fun</span>
                     </div>
                 </div>
                 <div className="hero__server-copy">

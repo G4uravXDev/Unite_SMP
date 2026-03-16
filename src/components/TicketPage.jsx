@@ -41,8 +41,8 @@ export default function TicketPage({ onBack, onToast }) {
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({
                     access_key: WEB3FORMS_ACCESS_KEY,
-                    subject: `🎫 Night Store Ticket: ${form.subject}`,
-                    from_name: 'Night Store Support',
+                    subject: `🎫 Uite Store Ticket: ${form.subject}`,
+                    from_name: 'Uite Store Support',
                     // Form fields
                     'Minecraft Username': form.username,
                     'Email': form.email,
